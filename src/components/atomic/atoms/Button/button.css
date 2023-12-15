@@ -1,0 +1,21 @@
+
+
+button{
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+
+.add {
+  background-color: #388e3c;
+
+}
+
+.action {
+  background-color: #0288d1;
+
+}
+
+.danger{
+  background-color: red;
+}
