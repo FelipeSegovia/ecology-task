@@ -1,0 +1,39 @@
+.input-field{
+  border: none;
+  outline: 0;
+  padding: 0;
+  flex-grow: 1;
+  flex-shrink: 1;
+  text-overflow: ellipsis;
+  font-size: 1rem;
+  color: #32383E;
+}
+
+.container-input-field{
+  box-sizing: border-box;
+  padding: 0 2rem;
+  border: 1px solid #CDD7E1;
+  border-radius: 6px;
+  display: flex;
+  line-height: 1.5;
+  padding-inline: 0.75rem;
+  min-height: 2.25rem;
+  color: #32383E;
+}
+
+.focus-in{
+  border: 2px solid #388e3c;
+}
+
+.focus-out{
+  border: 1px solid #CDD7E1;
+}
+
+.is-readonly{
+  background-color: rgb(196, 196, 196);
+}
+
+.no-action{
+  cursor: default;
+}
+
